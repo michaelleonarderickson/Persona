@@ -40,7 +40,8 @@ output_path = r'/path/to/store/frames' # PATH TO STORE FRAME(S)
 frame_rate = 10 # ADJUST THIS TO CHOOSE HOW MANY FRAMES ARE CREATED PER SECOND | USE THE VIDEO FRAME RATE OVER THIS NUMBER
 extract_frames(video_path, output_path, frame_rate)
 
-def preprocess_frames(frame_path, output_path, resize_dims=(224, 224), grayscale=False):
+# Choose to run the function below if you want to resize the extracted frames and/or make grayscale or you may delete if preprocessing is not necessary
+def preprocess_frames(frame_path, output_path, resize_dims=(224, 224), grayscale=True):
 
     # Read the frame
     frame = cv2.imread(frame_path)
@@ -56,9 +57,15 @@ def preprocess_frames(frame_path, output_path, resize_dims=(224, 224), grayscale
     cv2.imwrite(output_path, frame_resized)
     print(f"Preprocessed and saved frame at {output_path}")
 
-# Call preprocess_frames function
+# Call preprocess_frames function for each extracted frame
 frame_path = r'/path/to/store/frames/frame_0.png' # ADJUST THIS TO MATCH output_path/frame_0.png
 output_path = r'/path/to/store/preprocessed/frame_0.png' # PATH TO STORE THE PREPROCESSED FRAME(S)
+frames_dir = r'/path/to/store/frames'
+preprocessed_dir = r'/path/to/store/preprocessed'
 resize_dims = (224, 224)
 grayscale = True
-preprocess_frames(frame_path, output_path, resize_dims, grayscale)
+
+for frame_name in os.listdir(frames_dir):
+    frame_path = os.path.join(frames_dir, frame_name)
+    output_path = os.path.join(preprocessed_dir, frame_name)
+    preprocess_frames(frame_path, output_path, resize_dims, grayscale)

@@ -1,24 +1,23 @@
-Frame Extractor
+Here is the adjusted `README.md` file to include the OpenCV environment setup and video processing script:
 
-This script extracts frames from a video file and optionally preprocesses them (resize, convert to grayscale) and saves them as image files.
+# Frame Extractor
+This repository contains scripts for extracting frames from a video file, preprocessing them (resize, convert to grayscale), saving them as image files, and a script for setting up the OpenCV environment and testing video processing by reading a video file and displaying its frames.
 
-Requirements
+## Requirements
 - Python 3.6 or higher
 - pip 19.0 or higher
 - OpenCV (cv2)
 
-Installation
+## Installation
 Make sure you have Python and pip installed on your machine.
 
 Install OpenCV by running the following command:
 
-
 pip install opencv-python
 
-
-Usage
+## Usage
+### Frame Extraction and Preprocessing
 Edit the `extract_frames.pyw` script to specify the video file you want to extract frames from, the output directory where the frames will be saved, and the frame rate at which you want to extract the frames.
-
 
 For example:
 
@@ -27,9 +26,7 @@ output_path = r'/path/to/store/frames'
 frame_rate = 10
 extract_frames(video_path, output_path, frame_rate)
 
-
 (Optional) If you want to preprocess the frames (resize, convert to grayscale), edit the `preprocess_frames` function call at the bottom of the `extract_frames.pyw` script.
-
 
 frame_path = r'/path/to/store/frames/frame_0.png'
 output_path = r'/path/to/store/preprocessed/frame_0.png'
@@ -37,10 +34,18 @@ resize_dims = (224, 224)
 grayscale = True
 preprocess_frames(frame_path, output_path, resize_dims, grayscale)
 
-
 Make sure to adjust the paths and frame rate in the `extract_frames.pyw` script before running it. You can also adjust the `resize_dims` and `grayscale` parameters in the `preprocess_frames` function call to preprocess the frames as desired.
 
-Support This Project
+### OpenCV Environment Setup and Video Processing Test
+Run the `opencv_environment.pyw` script to set up the OpenCV environment and test video processing. The script will check the OpenCV version, configure GPU support if available, read a video file, resize its frames, and display them in a window. Specify the path to the video file you want to test and the desired dimensions of the displayed frames as a percentage of the screen size in the `opencv_environment.pyw` script.
+
+For example:
+
+video_path = r'/path/to/directory/for/video.mp4'
+
+Run the script, and it will set up the OpenCV environment, then read and display the video frames in a window. Press 'q' to close the video window at any time.
+
+## Support This Project
 If you find this project useful and would like to support its development, you can make a donation via
 
 Bitcoin:
@@ -56,5 +61,7 @@ Contact: viddorah@gmail.com
 
 Your support is greatly appreciated and will help to maintain and improve the project.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+This `README.md` file provides instructions for both the frame extraction and preprocessing script, and the OpenCV environment setup and video processing test script. It includes sections for requirements, installation, usage, support, and license.

@@ -51,6 +51,9 @@ Run the script, and it will set up the OpenCV environment, then read and display
 ## Support This Project
 If you find this project useful and would like to support its development, you can make a donation via
 
+Stripe:
+https://donate.stripe.com/7sIcNM9BMe4U8A88ww
+
 Bitcoin:
 3Ba6FM8mVsiAkJwvoSR6KFPdfmd7JEHRMy
 

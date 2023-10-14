@@ -1,5 +1,9 @@
 Here is the adjusted `README.md` file to include the OpenCV environment setup and video processing script:
 
+Project Viddorah aims to create a turnkey solution for Deepfakes (Generative Adversarial Networks) to be harnessed ethically.
+
+The following README file is for a Frame Extractor.
+
 # Frame Extractor
 This repository contains scripts for extracting frames from a video file, preprocessing them (resize, convert to grayscale), saving them as image files, and a script for setting up the OpenCV environment and testing video processing by reading a video file and displaying its frames.
 

@@ -1,4 +1,4 @@
-Project Viddorah aims to create a turnkey solution for Deepfakes to be harnessed ethically.
+Project Viddorah aims to create a turnkey solution for Deepfakes to be ethically used in medical facilities.
 
 Here is the adjusted `README.md` file to include the OpenCV environment setup and video processing script:
 The following README file is for a Frame Extractor.

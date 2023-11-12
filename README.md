@@ -219,18 +219,26 @@ Changelog and Updates
 
     History of Project Updates and Changes:
         The changelog section provides a comprehensive record of all updates, enhancements, and changes made to Project Viddorah since its inception.
+        
         This historical log includes details on new features, bug fixes, improvements, and any significant alterations to the software's functionality or design.
+        
         Users can refer to this section to track the evolution of the project, understand the rationale behind specific changes, and stay informed about the latest developments.
+        
         The changelog is regularly updated with each new release or iteration of the project, ensuring transparency and keeping users informed about the ongoing progress.
 
 Contact Information
 
     Contact Details for Further Inquiries:
         For any inquiries, support requests, or feedback, users can reach out to the Project Viddorah team through various channels.
+        
         Contact Email: [Pending] - For direct communication with the project team.
+        
         Support Hotline: [Pending] - Available during business hours for immediate assistance.
+        
         Pending Project Website: [Pending] - Contains comprehensive information, resources, and a contact form for inquiries.
+        
         Mailing Address: [Pending] - For official correspondence or documentation.
+        
         Social Media: [https://linkedin.com/in/michaellerickson/] - Follow Project Viddorah on social media for updates, news, and community engagement.
 
 Donate

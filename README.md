@@ -63,51 +63,51 @@ Project Phases
 
 Details of Each Project Phase (Initiation, Planning, Execution, etc.):
 
-Project Viddorah
-├── Initiation
-│   ├── Project Charter
-│   ├── Stakeholder Identification
-│   └── Feasibility Study
-├── Planning
-│   ├── Scope Definition
-│   ├── Work Breakdown Structure (WBS)
-│   ├── Resource Allocation
-│   ├── Risk Management Plan
-│   └── Communication Plan
-├── Execution
-│   ├── Team Coordination
-│   ├── Development of Deepfake Technology
-│   ├── Implementation of Ethical Guidelines
-│   └── Pilot Testing in Mental Health Facilities
-├── Monitoring and Controlling
-│   ├── Performance Reporting
-│   ├── Risk Monitoring
-│   ├── Quality Control
-│   └── Stakeholder Engagement
-└── Closing
-    ├── Project Documentation
-    ├── Post-project Evaluation
-    └── Knowledge Transfer
-
-├── Technology Overview
-│   ├── Deepfake Technology
-│   │   ├── Advanced AI Algorithms
-│   │   │   ├── Neural Networks for Deepfake Generation
-│   │   │   └── Machine Learning Models for Data Processing
-│   │   └── Real-time Rendering Techniques
-│   └── Audio-Visual Synthesis
-│       ├── Real-time Face Swapping Technology
-│       └── Voice Cloning and Audio Synthesis Algorithms
-
-├── Ethical Practices
-│   ├── Ensuring Informed Consent
-│   ├── Data Privacy and Security Measures
-│   └── Transparency in AI Use and Limitations
-
-└── Compliance
-    ├── Adherence to HIPAA and GDPR
-    ├── Regular Ethical Audits
-    └── Collaboration with Ethical Review Boards
+    Project Viddorah
+    ├── Initiation
+    │   ├── Project Charter
+    │   ├── Stakeholder Identification
+    │   └── Feasibility Study
+    ├── Planning
+    │   ├── Scope Definition
+    │   ├── Work Breakdown Structure (WBS)
+    │   ├── Resource Allocation
+    │   ├── Risk Management Plan
+    │   └── Communication Plan
+    ├── Execution
+    │   ├── Team Coordination
+    │   ├── Development of Deepfake Technology
+    │   ├── Implementation of Ethical Guidelines
+    │   └── Pilot Testing in Mental Health Facilities
+    ├── Monitoring and Controlling
+    │   ├── Performance Reporting
+    │   ├── Risk Monitoring
+    │   ├── Quality Control
+    │   └── Stakeholder Engagement
+    └── Closing
+        ├── Project Documentation
+        ├── Post-project Evaluation
+        └── Knowledge Transfer
+    
+    ├── Technology Overview
+    │   ├── Deepfake Technology
+    │   │   ├── Advanced AI Algorithms
+    │   │   │   ├── Neural Networks for Deepfake Generation
+    │   │   │   └── Machine Learning Models for Data Processing
+    │   │   └── Real-time Rendering Techniques
+    │   └── Audio-Visual Synthesis
+    │       ├── Real-time Face Swapping Technology
+    │       └── Voice Cloning and Audio Synthesis Algorithms
+    
+    ├── Ethical Practices
+    │   ├── Ensuring Informed Consent
+    │   ├── Data Privacy and Security Measures
+    │   └── Transparency in AI Use and Limitations
+    
+    └── Compliance
+        ├── Adherence to HIPAA and GDPR
+        ├── Regular Ethical Audits
+        └── Collaboration with Ethical Review Boards
 
 Project Viddorah is committed to the ethical application of AI and deepfake technology, particularly in sensitive areas such as mental health. The project adheres to strict ethical guidelines to ensure privacy, consent, and responsible use of technology.
 

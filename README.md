@@ -13,9 +13,13 @@ Objectives and Goals
 The primary objectives of Project Viddorah are to:
 
     Enhance Therapeutic Techniques: Utilize deepfake technology to create personalized therapeutic experiences that can aid in treating various mental health conditions more effectively.
+    
     Promote Ethical Technology Use: Ensure that the deployment of AI and deepfake technology in healthcare is done ethically, with a strong emphasis on privacy, consent, and responsible use.
+    
     Innovate in Mental Health Care: Pioneer new methods and tools in mental health treatment that can be scaled and adapted for global healthcare needs.
+    
     Improve Accessibility: Make advanced mental health care more accessible and effective through technology, reaching a wider range of patients.
+    
     Ensure Security and Privacy: Develop and implement robust security measures to protect patient data and prevent misuse of the technology.
     
 Software Development Structure

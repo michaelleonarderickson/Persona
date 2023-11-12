@@ -249,4 +249,4 @@ Contact Information
 Donate
     
     We need your help!
-        https://donate.stripe.com/7sIcNM9BMe4U8A88ww
+        [https://donate.stripe.com/7sIcNM9BMe4U8A88ww]

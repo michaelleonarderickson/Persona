@@ -121,6 +121,7 @@ Security Measures
         Project Viddorah employs robust security protocols to safeguard all data, particularly sensitive patient information. This includes advanced encryption techniques, secure data transmission, and strict access controls.
         Regular security updates and patches are implemented to protect against emerging threats.
         All data is stored in compliance with HIPAA and GDPR standards, ensuring the highest level of confidentiality and integrity.
+    
     Anti Reverse Engineering Strategies:
         The software incorporates sophisticated obfuscation techniques to prevent reverse engineering.
         Code integrity checks and real-time monitoring systems are in place to detect and prevent unauthorized access or tampering.

@@ -4,7 +4,7 @@ Project Viddorah README.md
 
 Introduction
 
-Project Viddorah is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Project Viddorah aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.
+Project Viddorah, pat. pending, is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Project Viddorah aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.
 
 The core of this initiative lies in its unique approach to using real-time face swapping and audio synthesis, which opens new possibilities in therapeutic settings. By creating ultra realistic and personalized avatars, Project Viddorah offers a novel way for patients to engage in therapeutic sessions, making them more effective and immersive. The therapeutic sessions involve real human providers interacting with patients.
 

@@ -3,6 +3,7 @@ Project Viddorah README.md
 # Project Viddorah Rough Draft (Clinical Trial Required)
 
 Introduction
+Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial)
 
 Project Viddorah, pat. pending, is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Project Viddorah aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.
 

@@ -127,6 +127,8 @@ Security Measures
         The software incorporates sophisticated obfuscation techniques to prevent reverse engineering.
         Code integrity checks and real-time monitoring systems are in place to detect and prevent unauthorized access or tampering.
         Continuous security assessments are conducted to evaluate and fortify the software against reverse engineering efforts.
+        Reserved set of IANA numbers (when the app is connected throughout multiple providers)
+        Disable VPN for use
 
 User Interface and Experience
 

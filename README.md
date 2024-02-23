@@ -1,7 +1,7 @@
 Project Viddorah README.md
 
 # Project Persona Phi, formerly Viddorah
-# This repo is a rough draft for a face swapping mental wellbeing app (Clinical Trial Required)
+# This repo is a rough draft for the face swapping mental wellbeing app (Clinical Trial Required)
 
 Introduction
 Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).

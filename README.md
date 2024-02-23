@@ -223,7 +223,7 @@ Frequently Asked Questions (FAQs)
         Covered topics range from technical aspects and usage protocols to support services, ethical considerations, and more.
         Continually updated with new information, this section remains an evolving resource that reflects the dynamic nature of user interaction and feedback.
 
-        This project was formerly called Keep in Touch. (Keep In Touch pat. pending)
+        This project, formerly called Keep in Touch. (Keep In Touch pat. pending), started in September 28th 2020.
         This project aims to be ethical.
         Laws, respective to jurisdiction, will be followed.
 

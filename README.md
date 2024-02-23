@@ -223,6 +223,8 @@ Frequently Asked Questions (FAQs)
         Covered topics range from technical aspects and usage protocols to support services, ethical considerations, and more.
         Continually updated with new information, this section remains an evolving resource that reflects the dynamic nature of user interaction and feedback.
 
+        This project was formerly called Keep in Touch. (Keep In Touch pat. pending).
+
 Changelog and Updates
 
     History of Project Updates and Changes:

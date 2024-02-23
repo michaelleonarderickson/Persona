@@ -1,6 +1,6 @@
 Project Viddorah README.md
 
-# Project "Persona PHI", formerly Viddorah
+# "Persona PHI", formerly Viddorah
 # This repo is a rough draft for the face swapping mental wellbeing app (Clinical Trial Required)
 
 Introduction

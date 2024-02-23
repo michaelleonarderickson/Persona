@@ -121,7 +121,7 @@ Details of Each Project Phase (Initiation, Planning, Execution, etc.):
         ├── Regular Ethical Audits
         └── Collaboration with Ethical Review Boards
 
-Persona PHI is committed to the ethical application of AI and GenAI, particularly in sensitive areas such as mental health. The project adheres to strict ethical guidelines to ensure privacy, consent, and responsible use of technology.
+Persona PHI is committed to the ethical application of GenAI, particularly in sensitive areas such as mental health. The project adheres to strict ethical guidelines to ensure privacy, consent, and responsible use of technology.
 
 Security Measures
 

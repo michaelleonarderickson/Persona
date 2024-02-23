@@ -5,7 +5,6 @@ PersonAfyREADME.md
 
 Introduction
 Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).
-        This project, formerly called Keep in Touch. (Keep In Touch pat. pending), started in September 2020.
         This project aims to be ethical.
         This project will comply with Laws and regulations, respective to jurisdiction.
         https://github.com/iperov/DeepFaceLive
@@ -229,8 +228,6 @@ Frequently Asked Questions (FAQs)
         The FAQ section is designed to address prevalent inquiries regarding PersonAfy. It offers clear, concise answers for easy and quick reference.
         Covered topics range from technical aspects and usage protocols to support services, ethical considerations, and more.
         Continually updated with new information, this section remains an evolving resource that reflects the dynamic nature of user interaction and feedback.
-
-        This project, formerly called Keep in Touch. (Keep In Touch pat. pending), started in September 28th 2020.
         This project aims to be ethical.
         Laws, respective to jurisdiction, will be followed.
 

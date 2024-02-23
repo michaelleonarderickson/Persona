@@ -7,7 +7,7 @@ Introduction
 Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).
         This project, formerly called Keep in Touch. (Keep In Touch pat. pending), started in September 2020.
         This project aims to be ethical.
-        Laws, respective to jurisdiction, will be followed.
+        This project will comply with Laws and regulations, respective to jurisdiction.
         https://github.com/iperov/DeepFaceLive
         DEF CON 31 - Real Time Video and Audio Deep Fake -Gal Zror | https://youtu.be/W8fbKYjbFD4?si=-jgpqsdW4IcMWEjE
         https://github.com/CorentinJ/Real-Time-Voice-Cloning

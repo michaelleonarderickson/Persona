@@ -7,8 +7,8 @@ Introduction
 Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).
         This project aims to be ethical.
         This project will comply with Laws and regulations, respective to jurisdiction.
-        https://github.com/iperov/DeepFaceLive
-        DEF CON 31 - Real Time Video and Audio Deep Fake -Gal Zror | https://youtu.be/W8fbKYjbFD4?si=-jgpqsdW4IcMWEjE
+        https://github.com/iperov/DeepFaceLive, 
+        DEF CON 31 - Real Time Video and Audio Deep Fake -Gal Zror | https://youtu.be/W8fbKYjbFD4?si=-jgpqsdW4IcMWEjE,
         https://github.com/CorentinJ/Real-Time-Voice-Cloning
 
 Persona is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Persona aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.

@@ -1,6 +1,6 @@
-Persona-fyREADME.md
+README.md
 
-# "Persona" (Formerly Viddorah)
+# "Persona"
 # This repo is a rough draft (Clinical Trial Required)
 
 Introduction

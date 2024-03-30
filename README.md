@@ -256,3 +256,5 @@ Contact Information
         Mailing Address: [Pending] - For official correspondence or documentation.
         
         Social Media: [LinkedIn]: (https://linkedin.com/in/michaellerickson/) - Follow Persona on social media for updates, news, and community engagement.
+
+        Presentation: https://youtu.be/Vedcdc6HamU

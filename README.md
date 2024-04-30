@@ -1,7 +1,7 @@
 README.md
 
 # "Persona"
-# This repo is a rough draft (Clinical Trial Required) | Presentation: https://youtu.be/Vedcdc6HamU
+# This repo is a rough draft (Clinical Trial Required)
 
 Introduction
 Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).

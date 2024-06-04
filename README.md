@@ -1,15 +1,21 @@
 README.md
+<div align="right">
 
-# "Persona"
-# This repo is a rough draft (Clinical Trial Required)
+# persona
+# rough draft repo
+# clinical trial is required to understand the effects on life
 
-Introduction
-Real-time Digital Face Transformation Technology and Voice Cloning for the Treatment of Disorders in the Diagnostic and Statistical Manual of Mental Disorders (Clinical Trial).
+https://opensource.org/licenses/MIT
+
+<p class="align right">
+<h4>persona is an open-source framework for real-time digital face transformation technology and voice cloning for the treatment of disorders in the disagnostic and statistical manual of mental disorders</h4>
         This project aims to be ethical.
         This project will comply with Laws and regulations, respective to jurisdiction.
         https://github.com/iperov/DeepFaceLive, 
         DEF CON 31 - Real Time Video and Audio Deep Fake -Gal Zror | https://youtu.be/W8fbKYjbFD4?si=-jgpqsdW4IcMWEjE,
         https://github.com/CorentinJ/Real-Time-Voice-Cloning
+</p>
+
 
 Persona is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Persona aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.
 

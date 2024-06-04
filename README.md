@@ -2,12 +2,13 @@ README.md
 <div align="right">
 
 # persona
-# rough draft repo
-# clinical trial is required to understand the effects on life
 
 https://opensource.org/licenses/MIT
 
 <p class="align right">
+<h4>rough draft repo</h4>
+<h4>clinical trial is required to understand the effects on life</h4>
+
 <h4>persona is an open-source framework for real-time digital face transformation technology and voice cloning for the treatment of disorders in the disagnostic and statistical manual of mental disorders</h4>
         This project aims to be ethical.
         This project will comply with Laws and regulations, respective to jurisdiction.

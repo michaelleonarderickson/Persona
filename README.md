@@ -1,14 +1,13 @@
 README.md
-<div align="right">
+<div align="center">
 
 # persona
 
 https://opensource.org/licenses/MIT
 
-<p class="align right">
+<p class="align center">
 <h4>rough draft repo</h4>
 <h4>clinical trial is required to understand the effects on life</h4>
-
 <h4>persona is an open-source framework for real-time digital face transformation technology and voice cloning for the treatment of disorders in the disagnostic and statistical manual of mental disorders</h4>
         This project aims to be ethical.
         This project will comply with Laws and regulations, respective to jurisdiction.
@@ -18,6 +17,7 @@ https://opensource.org/licenses/MIT
 </p>
 
 
+## introduction
 Persona is an initiative to innovate mental health technology and treatment to improve the reduction of disparities at the point of care. This project uses deepfake technology and artificial intelligence to create a transformative experience in mental healthcare. By integrating AI with ethical guidelines, Persona aims to provide solutions for challenging mental health issues, including memory loss, autism, aphasia, capgras syndrome, dementia, schizoid personality disorders, post-traumatic stress disorders, obsessive patterns, social anxiety, and more.
 
 The core of this initiative lies in a unique approach while using real-time face swapping and real-time voice cloning audio synthesis. This opens new possibilities in therapeutic settings. By creating hyper-realistic and personalized avatars, Persona offers a novel way for patients to engage in therapeutic sessions. The therapeutic sessions involve real people. The providers directly interact with patients for a patient-centric approach.

@@ -1,11 +1,11 @@
 README.md
-<div align="center">
+<div align="left">
 
 # persona
 
 https://opensource.org/licenses/MIT
 
-<p class="align center">
+<p class="align left">
 <h4>rough draft repo</h4>
 <h4>clinical trial is required to understand the effects on life</h4>
 <h4>persona is an open-source framework for real-time digital face transformation technology and voice cloning for the treatment of disorders in the disagnostic and statistical manual of mental disorders</h4>
